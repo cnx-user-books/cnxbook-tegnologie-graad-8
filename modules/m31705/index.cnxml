@@ -1,0 +1,149 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Belangrikste meeteenhede</title>
+  <metadata>
+  <md:content-id>m31705</md:content-id><md:title>Belangrikste meeteenhede</md:title>
+  <md:abstract/>
+  <md:uuid>73abca6f-301f-49d0-8a28-6a201d181c4e</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1836074">
+      <title>TEGNOLOGIE</title>
+      <para id="para-id1836074">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id5613269">
+      <title>Graad 8</title>
+      <para id="para-id5613269">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id4990031">
+      <title>ELEKTRISITEIT</title>
+      <para id="para-id4990031">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id5711520">
+      <title>Module 15</title>
+      <para id="para-id5711520">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id4108181">
+      <title>DIE BELANGRIKSTE ELEKTRIESE MEETEENHEDE</title>
+      <para id="id5100187"/>
+      <para id="id4127208"/>
+      <para id="id5570110">Aktiwiteit 1</para>
+      <para id="id2227766">Om die belangrikste elektriese meeteenhede en hul onderlinge verband te kan verduidelik</para>
+      <para id="id4376682">[LU 2.4]</para>
+      <para id="id3754251">Ons het reeds gesê dat ’n elektriese stroom die vloei van elektrone in ’n kring is. Die spoed waarteen die elektrone vloei, word in <emphasis effect="bold">ampère</emphasis> gemeet. Om die ampère te meet, moet jy toelaat dat die stroom deur die ammeter vloei.</para>
+      <para id="id2350450">Die battery voorsien die energie, wat ook die <emphasis effect="bold">elektromotoriese krag (EMK</emphasis>) genoem word en in <emphasis effect="bold">volt</emphasis> gemeet word. Om die volts te meet moet jy die twee punte van die voltmeter weerskante van ’n komponent plaas. </para>
+      <para id="id2230574">Daar word weerstand gebied teen die stroomvloei en die weerstand word in <emphasis effect="bold">ohm</emphasis> gemeet.</para>
+      <para id="id4091159">’n Battery lewer nie sy volle energie nie, aangesien van sy energie in weerstand verlore gaan. Dit staan as drywing bekend en word in<emphasis effect="bold"> watt </emphasis>gemeet.</para>
+      <para id="id3572067">Ohm se wet sê dat die stroom deur ’n weerstand direk eweredig is aan die spanning wat oor ’n weerstand gekoppel word, d.w.s. die stroom is <emphasis effect="italics">direk eweredig</emphasis> aan die spanning, maar <emphasis effect="italics">omgekeerd eweredig</emphasis> aan die weerstand. Dit word soos volg geformuleer:</para>
+      <para id="id3792918">I = V / R</para>
+      <para id="id4071840">Drywing is die energie wat deur die battery voorsien word en wat as hitte in ’n weerstand verkwis word. Die wetenskaplikes formuleer dit soos volg:</para>
+      <para id="id4389635">P = V x I</para>
+      <list id="id6628905" list-type="bulleted">
+        <item>Opsomming van elektriese eenhede</item>
+      </list>
+      <table id="id4196526" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry>Simbool</entry>
+              <entry>Eenheid</entry>
+              <entry>Afkorting</entry>
+            </row>
+            <row>
+              <entry>SPANNING</entry>
+              <entry>V</entry>
+              <entry>Volt</entry>
+              <entry>V</entry>
+            </row>
+            <row>
+              <entry>STROOM</entry>
+              <entry>I</entry>
+              <entry>Ampère</entry>
+              <entry>A</entry>
+            </row>
+            <row>
+              <entry>WEERSTAND</entry>
+              <entry>R</entry>
+              <entry>Ohm</entry>
+              <entry>Ώ</entry>
+            </row>
+            <row>
+              <entry>DRYWING</entry>
+              <entry>P</entry>
+              <entry>Watt</entry>
+              <entry>W</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id2331236">Die formules maak dit moontlik dat jy deur wiskundige berekenings die verskillende eenhede kan bepaal; bv. as jy die volts en ampère van ’n stroombaan het, kan jy die drywing ook bereken. Deesdae gebruik ons gevorderde apparaat vir die meet van stroom, spanning en weerstand.</para>
+      <list id="id6507089" list-type="bulleted">
+        <item>Die multimeter is so ’n apparaat. Jy sal die geleentheid kry om daarmee meting te doen indien jou skool een besit.<figure id="id3766257"><media id="id3766257_media" alt=""><image mime-type="image/png" src="../../media/graphics1-c14d.png" id="id3766257__onlineimage" height="473" width="352"/></media></figure></item>
+      </list>
+      <para id="id4327414">Opdrag 1</para>
+      <para id="id6695349">1.1 Gee nog twee formules wat uit die formule I = V/R kan ontstaan.</para>
+      <para id="id3764191">1.2 Gee nog twee formules wat uit die formule P = V x I kan onstaan.</para>
+    </section>
+    <section id="id3948478">
+      <title>Assessering</title>
+      <table id="id5924691" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>LU 2 </entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">tegnologiese kennis en begrip</emphasis><emphasis effect="bold"/>Die leerder is in staat om relevante tegnologiese kennis te verstaan en dit eties en verantwoordelik toe te pas.</entry>
+            </row>
+            <row>
+              <entry>Dit word bewys as die leerder:</entry>
+            </row>
+            <row>
+              <entry>stelsels en beheer:2.4 kennis en begrip toon van hoe elektriese stroombane met meer as een inset- of beheertoestel sal werk, gebaseer op verskillende logiese toestande (“EN – en “OF” –logika), en stel dit deur middel van stroombaandiagramme, stelseldiagramme en waarheidstabelle voor.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id4074225">
+      <title>Memorandum</title>
+      <list id="id4219303" list-type="bulleted">
+        <item>Die volgende definisies is belangrik:</item>
+      </list>
+      <list id="id5593219" list-type="bulleted">
+        <item>Elektriese stroom: die vloei van elektrone in ‘n geslote stroombaan</item>
+        <item>Spanning: die elektromotoriese krag wat stroomvloei moontlik maak</item>
+        <item>Weerstand: die eienskap van materiale om weerstand te bied teen stroomvloei</item>
+        <item>Drywing: die energie wat ‘n battery moet verskaf en wat in ‘n weerstand gebruik word.</item>
+      </list>
+      <para id="id3901242">Ohm se Wet:</para>
+      <list id="id5012844" list-type="bulleted">
+        <item>Dit lui dat die stroom deur ‘n weerstand direk eweredig is aan die spanning wat oor ‘n weerstand gekoppel word. Die stroom is dus direk eweredig aan die aangekoppelde spanning en omgekeerd eweredig aan die weerstand.</item>
+      </list>
+      <para id="id5634091">Opdrag 1</para>
+      <list id="id6544757" list-type="bulleted">
+        <item>‘n Maklike manier om die formule te onthou is (memoriseer die volgende)</item>
+      </list>
+      <para id="id1663393">Druk die gevraagde, bv. “V” (voet), toe en die antwoord 1 × R verskyn. </para>
+      <para id="id4223213">Druk “R” toe en 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mi>V</m:mi><m:mn>1</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {V}  over  {1} } } {}</m:annotation></m:semantics></m:math> verskyn.</para>
+      <para id="id4734391"/>
+      <para id="id5981221">1.1 V = I × R en R = V/I</para>
+      <para id="id5181255">1.2 V = P/I en I = P/V</para>
+    </section>
+  </content>
+</document>

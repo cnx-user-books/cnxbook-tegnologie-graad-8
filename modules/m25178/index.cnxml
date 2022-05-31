@@ -1,0 +1,286 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Stroombane, geleiers, isolators</title>
+  <metadata>
+  <md:content-id>m25178</md:content-id><md:title>Stroombane, geleiers, isolators</md:title>
+  <md:abstract/>
+  <md:uuid>ee0d5235-7083-4c5d-8ccf-c4bf034b9bfe</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1171365333023">
+      <title>TEGNOLOGIE</title>
+      <para id="para-id1171365333023">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1171365173717">
+      <title>Graad 8</title>
+      <para id="para-id1171365173717">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1171362457900">
+      <title>ELEKTRISITEIT</title>
+      <para id="para-id1171362457900">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1171368681721">
+      <title>Module 14</title>
+      <para id="para-id1171368681721">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1171364064971">
+      <title>STROOMBANE, GELEIERS, ISOLATORS</title>
+      <para id="id1171363633209">Aktiwiteit:</para>
+      <para id="id1171363630720">Om </para>
+      <list id="id1171364527395" list-type="bulleted">
+        <item>basiese kennis van stroombane, geleiers en isolators te bemeester [LU 1.3]</item>
+        <item>praktiese toetse in die area van Stelsels en Beheer te doen[LU 2.1]</item>
+        <item>’n stroombaandiagram te teken[LU 2.4]</item>
+      </list>
+      <para id="id1171364523126">In ’n stelsel het elke onderdeel ’n funksie om te verrig om die stelsel te laat werk. Elektriese stelsels is geensins anders nie. Elke onderdeel, in dié geval die komponent, het ’n spesifieke funksie om te verrig. Die komponente kan nie afsonderlik funksioneer nie en moet by mekaar ingeskakel wees in wat ons ’n stroombaan noem.</para>
+      <para id="id1171363546581">’n Stroombaan moet ’n kragbron hê, bv. ’n battery. Dit moet geslote wees en dit moet ’n funksie hê, bv. ’n gloeilamp wat lig gee. Jy gaan in hierdie module met baie eenvoudige elektriese stelsels werk.</para>
+      <para id="id1171365120545">Sekere materiale is geskik om elektrisiteit goed te gelei en word binne stroombane gebruik. Hulle staan bekend as <emphasis effect="bold">geleiers,</emphasis> bv. silwer, koper, aluminium en goud. Jy vertrou elke dag jou lewe op <emphasis effect="bold">isolators</emphasis> as jy bv. aan die haardroër se koord vat. Isolators is materiale wat nie elektrisiteit gelei nie, omdat dit geen vry elektrone bevat nie. Voorbeelde is rubber, PVC, plastiek en asbes.</para>
+      <para id="id1171365251991">Opdrag 1:</para>
+      <list id="id1171365310337" list-type="bulleted">
+        <item>Jou opvoeder sal ’n eenvoudige stroombaan met ’n gloeilamp aan jou gee waarmee jy die volgende items kan toets of hulle geleiers of isolators is:</item>
+      </list>
+      <figure id="id1171365236121">
+        <media id="id1171365236121_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 1-15dc.png" id="id1171365236121__onlineimage" height="136" width="296"/>
+        </media>
+      </figure>
+      <table id="id1171362664109" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>Item</entry>
+              <entry>Materiaal</entry>
+              <entry>Isolator</entry>
+              <entry>Geleier</entry>
+            </row>
+            <row>
+              <entry>Liniaal</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Spyker</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Skuifspeld</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Wol</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Karton</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Tinfoelie</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <list id="id4188838" list-type="bulleted">
+        <item>Die vloei van elektriese stroom het hoofsaaklik drie gevolge, nl. </item>
+      </list>
+      <list id="id1171364466649" list-type="bulleted">
+        <item>’n verhittingseffek;</item>
+        <item>’n magnetiese effek; en</item>
+        <item>’n chemiese effek.</item>
+      </list>
+      <para id="id1171365385156">Indien jy ’n ou radio oopmaak,sal jy ’n klomp gekleurde komponente op groen borde sien. Hierdie gevorderde stroombane en die uitleg word met behulp van ’n rekenaar ontwerp. Alvorens daar met die bou van ’n stroombaan begin kan word, moet daar ’n stroombaandiagram geteken word wat die presiese uitleg aandui. Ons gaan slegs kyk na enkele basiese komponente om ons in staat te stel om ’n eenvoudige stroombaan vir ’n artikel te ontwerp en te vervaardig. Ons klassifiseer die komponente volgens hulle funksie in drie kategorieë: Inset, Proses en Uitset.</para>
+      <para id="id1171362604684"/>
+      <table id="id1171368681782" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry>Proses</entry>
+              <entry>Uitset</entry>
+            </row>
+            <row>
+              <entry>Drukskakelaar</entry>
+              <entry>Weerstand</entry>
+              <entry>Gloeilamp</entry>
+            </row>
+            <row>
+              <entrytbl cols="1">
+                <colspec colnum="1" colname="c1"/>
+                <tbody>
+                  <row>
+                    <entry>Sel</entry>
+                  </row>
+                  <row>
+                    <entry>Battery</entry>
+                  </row>
+                </tbody>
+              </entrytbl>
+              <entry>Verstelbare weerstand</entry>
+              <entrytbl cols="1">
+                <colspec colnum="1" colname="c1"/>
+                <tbody>
+                  <row>
+                    <entry>LED<emphasis effect="bold">*</emphasis></entry>
+                  </row>
+                  <row>
+                    <entry>Gonser</entry>
+                  </row>
+                </tbody>
+              </entrytbl>
+            </row>
+            <row>
+              <entry>Skuifskakelaar</entry>
+              <entry>Diode</entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1171362814235"><emphasis effect="bold">*</emphasis> LED staan vir “Light Emitting Diode”. Dus ’n ligafgewende diode. ’n Diode is ’n apparaatjie wat stroom slegs in een rigting laat vloei. Dit kan dus op een manier in die stroombaan gekoppel word.</para>
+      <para id="id1171364074885">Opdrag 2</para>
+      <para id="id1171361692126">2.1 Teken ’n eenvoudige stroombaan wat die volgende komponente bevat:</para>
+      <para id="id1171362452670">BATTERY, SKUIFSKAKELAAR, GLOEILAMP, GELEIER</para>
+      <para id="id1171365378672">2.2  Gee twee voorbeelde van elk waar die verhittingseffek, magnetiese effek, en chemiese effek van ’n elektriese stroom aangewend word.</para>
+    </section>
+    <section id="id1171365394943">
+      <title>Assessering</title>
+      <table id="id1171365442096" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>Leeruitkomstes(LUs)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>LU 1 </entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">tegnologiese prosesse en vaardighede</emphasis><emphasis effect="bold"/>Die leerder is in staat om tegnologies prosesse en vaardighede eties en verantwoordelikheid toe te pas deur gepaste inligtings- en kommunikasietegnologie te gebruik.</entry>
+            </row>
+            <row>
+              <entry>Assesseringstandaarde(ASe)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>Dit word bewys as die leerder:</entry>
+            </row>
+            <row>
+              <entry>ondersoek:1.1 die agtergrondkonteks, die aard van die behoefte, die omgewingsituasie en die mense wat betrokke is wanneer ‘n probleem, behoefte of geleentheid in ‘n nasionaal relevante konteks gegee word ondersoek;</entry>
+            </row>
+            <row>
+              <entry>1.2 bestaande produkte wat met die probleem verband hou, ondersoek;</entry>
+            </row>
+            <row>
+              <entry>1.3 praktiese toetse in die tegnologiese veld ontwikkel en uitvoer;</entry>
+            </row>
+            <row>
+              <entry>LU 2 </entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">tegnologiese kennis en begrip</emphasis><emphasis effect="bold"/>Die leerder is in staat om relevante tegnologiese kennis te verstaan en dit eties en verantwoordelik toe te pas.</entry>
+            </row>
+            <row>
+              <entry>Dit word bewys as die leerder:</entry>
+            </row>
+            <row>
+              <entry>stelsels en beheer:2.4 kennis en begrip toon van hoe elektriese stroombane met meer as een inset- of beheertoestel sal werk, gebaseer op verskillende logiese toestande (“EN – en “OF” –logika), en stel dit deur middel van stroombaandiagramme, stelseldiagramme en waarheidstabelle voor.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id1171367600911">
+      <title>Memorandum</title>
+      <para id="id1171367485593">Opdrag 1</para>
+      <list id="id4372957" list-type="bulleted">
+        <item>Bou die onderstaande stroombaan. Daar is twee knypers wat gebruik kan word om die items mee vas te hou. Die resultate behoort soos volg te wees.</item>
+      </list>
+      <table id="id1171364527205" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>Item</entry>
+              <entry>Materiaal</entry>
+              <entry>Isolator</entry>
+              <entry>Geleier</entry>
+            </row>
+            <row>
+              <entry>Liniaal</entry>
+              <entry>Perspex</entry>
+              <entry>Ja</entry>
+              <entry>Nee</entry>
+            </row>
+            <row>
+              <entry>Spyker</entry>
+              <entry>Staal</entry>
+              <entry>Nee</entry>
+              <entry>Ja</entry>
+            </row>
+            <row>
+              <entry>Skuifspeld</entry>
+              <entry>Koper</entry>
+              <entry>Nee</entry>
+              <entry>Ja</entry>
+            </row>
+            <row>
+              <entry>Wol</entry>
+              <entry>-</entry>
+              <entry>Ja</entry>
+              <entry>Nee</entry>
+            </row>
+            <row>
+              <entry>Karton</entry>
+              <entry>-</entry>
+              <entry>Ja</entry>
+              <entry>Nee</entry>
+            </row>
+            <row>
+              <entry>Tinfoelie</entry>
+              <entry>Aluminium</entry>
+              <entry>Nee</entry>
+              <entry>Ja</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1171365392289">Opdrag 2</para>
+      <para id="id1171365287894">2.2 Verhitting: verwarmer, warmwatersilinderMagneties: elektriese motor, huis/deurklokkie, flikkerligte van motorChemies: swembadchlorineerder, oortrek van voorwerpe met metaal</para>
+    </section>
+  </content>
+</document>

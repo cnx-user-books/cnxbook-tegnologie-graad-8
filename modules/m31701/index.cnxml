@@ -1,0 +1,224 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>serie- en parallelskakeling</title>
+  <metadata>
+  <md:content-id>m31701</md:content-id><md:title>serie- en parallelskakeling</md:title>
+  <md:abstract/>
+  <md:uuid>d707f99a-a319-40a9-a51e-9849631e8d87</md:uuid>
+</metadata>
+
+<content>
+    <para id="id12849997">TEGNOLOGIE</para>
+    <para id="id12850001">Graad 8</para>
+    <para id="id12850006">ELEKTRISITEIT</para>
+    <para id="id12850011">Module 16</para>
+    <para id="id12850018">SERIE- EN PARALLELSKAKELING</para>
+    <para id="id12850025">Aktiwiteit 1</para>
+    <para id="id12850030">Om kennis rakende serie- en parallelskakeling in te win, deur middel van praktiese toetse</para>
+    <para id="id12850036">[LU 1.3]</para>
+    <para id="id12850041">Ons kan sê dat daar serieskakeling is wanneer komponente in ’n reguit lyn voorkom; en parallelskakeling wanneer komponente langs mekaar geskakel is. Die manier waarop die komponente geskakel is, het ’n groot invloed op die lewering van die stroombaan. Om die gevolg van dié soort koppeling die beste te verstaan,is dit wenslik om prakties na ’n paar stroombane te gaan kyk. Jou opvoeder sal vir jou komponente voorsien om die volgende stroombane te bou op selfvervaardigde borde of op broodborde.</para>
+    <para id="id12850067">Opdrag 1</para>
+    <para id="id12850071">Bou die volgende stroombane en beskryf die resultaat op die uitsetkomponent. Jy kan óf ’n gloeilamp óf LED as uitsetkomponent gebruik. Onthou dat ’n LED se lang been sy positief aandui. Jou opvoeder sal ook die regte grootte weerstand gee om die LED te beskerm. Indien jy ’n multimeter het, kan jy in elke geval die volts, ampère en ohm meet.</para>
+    <para id="id12850090">Selle in serie</para>
+    <figure id="id12850098">
+      <media id="id12850098_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics1-62fb.png" id="id12850098__onlineimage" height="195" width="344"/>
+      </media>
+    </figure>
+    <para id="id12850122">a) Wat is die totale volts van die battery?</para>
+    <para id="id12850129"/>
+    <para id="id12850134">b) Wat is die effek as een sel weggeneem word?:</para>
+    <para id="id12850141">Die gloeilamp/LED brand</para>
+    <para id="id12850146">helder</para>
+    <para id="id12850151">dof</para>
+    <para id="id12850157">baie dof</para>
+    <para id="id12850162">(onderstreep die korrekte antwoord)</para>
+    <para id="id12850166">1.2 Selle in parallel:</para>
+    <figure id="id12850176">
+      <media id="id12850176_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics2.png" id="id12850176__onlineimage" height="251" width="313"/>
+      </media>
+    </figure>
+    <para id="id12850200">a) Wat is die totale volts van die battery?</para>
+    <para id="id12850207"/>
+    <para id="id12850211">b) Wat is die effek as een sel weggeneem word?</para>
+    <para id="id12850218">Die gloeilamp/LED brand</para>
+    <para id="id12850222">helder</para>
+    <para id="id12850227">dof</para>
+    <para id="id12850232">baie dof</para>
+    <para id="id12850236">(onderstreep die korrekte antwoord)</para>
+    <para id="id12850241">Lampe / LED’s in serie</para>
+    <figure id="id12850249">
+      <media id="id12850249_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics3.png" id="id12850249__onlineimage" height="222" width="407"/>
+      </media>
+    </figure>
+    <para id="id12812921"/>
+    <para id="id12812925">a) Wat gebeur as een gloeilamp/LED verwyder word?</para>
+    <para id="id12812933"> b) Wat gebeur indien jy nog ’n gloeilamp/LED byvoeg (dieselfde tipe skakeling)?</para>
+    <para id="id12812943">c) Wat is die totale volts van V1 en V2 saam?</para>
+    <para id="id12812952">1.4 Lampe/LED’s in parallel</para>
+    <figure id="id12812963">
+      <media id="id12812963_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics4.png" id="id12812963__onlineimage" height="245" width="411"/>
+      </media>
+    </figure>
+    <para id="id12812987">a) Wat gebeur as een gloeilamp / LED verwyder word?</para>
+    <para id="id12812994"> b) Wat gebeur indien jy nog ’n gloeilamp / LED byvoeg ( dieselfde tipe skakeling)?</para>
+    <para id="id12813005"> c) Wat is die totale volts van V1 en V2 saam?</para>
+    <para id="id12813012">1.5 Resistors in serie</para>
+    <figure id="id12813023">
+      <media id="id12813023_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics5.png" id="id12813023__onlineimage" height="265" width="463"/>
+      </media>
+    </figure>
+    <para id="id12813047"/>
+    <para id="id12813051">a) Wat is die funksie van die resistors?</para>
+    <para id="id12813058">b) Wat is die totale weerstand in die stroombaan?</para>
+    <para id="id12813065">Fokustaak 3</para>
+    <para id="id12813070">Om die vaardigheid van soldering te bemeester</para>
+    <para id="id12813075">[LU 1.10] </para>
+    <para id="id12813080">Jou opvoeder sal jou verder inlig en ’n demonstrasie gee van hoe om te soldeer. Soldeerdraad is ’n samestelling van tin en lood. Die rook wat tydens soldering vrygestel word, is dus nie gesond vir jou nie - probeer om so min as moontlik daarvan in te asem.</para>
+    <para id="id12813093">Pas asseblief alle veiligheidsmaatreëls toe!</para>
+    <para id="id12813099">Demonstreer jou soldeervaardighede deur ’n eenvoudige vorm uit draad aanmekaar te soldeer. Enkel voorbeelde word hieronder verskaf:</para>
+    <para id="id12813108">Voorbeelde van soldering:</para>
+    <para id="id12813113">Stappe vir die maak van ’n draad mannetjie</para>
+    <para id="id12813119">1 Buig/bind draad.</para>
+    <para id="id12813126">2 Soldeer die arms.</para>
+    <para id="id12813133">3 Voeg ekstra vorms by.</para>
+    <para id="id12813140">Situasie 1</para>
+    <para id="id12813144">Om kinders se hand-oogkoördinasie te verbeter, word jy gevra om ’n vastehandspeletjie (“ Steady – Hand Game “) te ontwerp. Jy kan ’n 3-volt gloeilamp of ’n standaard LED of 3-volt gonser (“buzzer”) gebruik om aan te dui wanneer die handvatsel die metaalraam raak.</para>
+    <para id="id12813160">Benodigdhede vir ’n stroombaan.</para>
+    <para id="id12813166">1 Metaalvorm – buig draad in vorm soos benodig (jy kan ’n soldeerstafie gebruik).</para>
+    <para id="id12813176">2 Voelstafie – dit kan ook van soldeerstaf gemaak word.</para>
+    <para id="id12813184">3 LED – die gewone 3 volt-tipe (of ’n 3V gloeilamp).</para>
+    <para id="id12813193">4 Hegstuk – ’n enkelhegstuk van ’n strokie afgesny.</para>
+    <para id="id12813201">5 3 Volt-batteryhouer met drade aangeheg.</para>
+    <para id="id12813208">6 Hegstuk – dubbelhegstuk van strokie afgesny.</para>
+    <para id="id12813217">7 Draad – om die voelstafie aan die stroombaan te koppel.</para>
+    <para id="id12813225">
+      <figure id="id12813230">
+        <media id="id12813230_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics6.png" id="id12813230__onlineimage" height="301" width="455"/>
+        </media>
+      </figure>
+    </para>
+    <figure id="id12813257">
+      <media id="id12813257_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics7.png" id="id12813257__onlineimage" height="203" width="357"/>
+      </media>
+    </figure>
+    <para id="id12813281">
+      <figure id="id12813285">
+        <media id="id12813285_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics8.png" id="id12813285__onlineimage" height="413" width="570"/>
+        </media>
+      </figure>
+    </para>
+    <para id="id12813309">INSET</para>
+    <figure id="id12813317">
+      <media id="id12813317_media" alt="">
+        <image mime-type="image/png" src="../../media/Picture 1-7950.png" id="id12813317__onlineimage" height="99" width="169"/>
+      </media>
+    </figure>
+    <para id="id12813341">Hand</para>
+    <para id="id12813346">PROSES</para>
+    <figure id="id12813354">
+      <media id="id12813354_media" alt="">
+        <image mime-type="image/png" src="../../media/Picture 2-5d62.png" id="id12813354__onlineimage" height="95" width="135"/>
+      </media>
+    </figure>
+    <para id="id12813377">Beweeg saam met gevormde draad</para>
+    <para id="id12813382">UITSET</para>
+    <para id="id12813386"/>
+    <figure id="id12813394">
+      <media id="id12813394_media" alt="">
+        <image mime-type="image/png" src="../../media/Picture 3-def5.png" id="id12813394__onlineimage" height="90" width="109"/>
+      </media>
+    </figure>
+    <para id="id12813418">Waarskuwing(lig en klok)</para>
+    <para id="id12813423">Terugvoer aan gebruiker AAN / AF</para>
+    <para id="id12813430">Situasie 2</para>
+    <para id="id7719325">Ons almal is bewus van die nadele wat rook vir jou inhou. Selfs passiewe rokers word erg benadeel deur persone wat in hul teenwoordigheid rook. Gebruik ’n ou medisynebottel om ’n anti-rook-teken te vervaardig. Die teken moet ’n stroombaan bevat wat rokers se aandag sal trek. Jy kan ’n flikker-LED gebruik om die teken meer doeltreffend te maak.</para>
+    <para id="id7719341">Assessering</para>
+    <table id="id7719346" summary="">
+      <tgroup cols="1">
+        <colspec colnum="1" colname="c1"/>
+        <tbody>
+          <row>
+            <entry>Leeruitkomstes(LUs)</entry>
+          </row>
+          <row>
+            <entry/>
+          </row>
+          <row>
+            <entry>LU 1 </entry>
+          </row>
+          <row>
+            <entry>tegnologiese prosesse en vaardighedeDie leerder is in staat om tegnologies prosesse en vaardighede eties en verantwoordelikheid toe te pas deur gepaste inligtings- en kommunikasietegnologie te gebruik.</entry>
+          </row>
+          <row>
+            <entry>Assesseringstandaarde(ASe)</entry>
+          </row>
+          <row>
+            <entry/>
+          </row>
+          <row>
+            <entry>Dit word bewys as die leerder:</entry>
+          </row>
+          <row>
+            <entry>ondersoek:1.1 die agtergrondkonteks, die aard van die behoefte, die omgewingsituasie en die mense wat betrokke is wanneer ‘n probleem, behoefte of geleentheid in ‘n nasionaal relevante konteks gegee word ondersoek;</entry>
+          </row>
+          <row>
+            <entry>1.2 bestaande produkte wat met die probleem verband hou, ondersoek;</entry>
+          </row>
+          <row>
+            <entry>1.3 praktiese toetse in die tegnologiese veld ontwikkel en uitvoer;</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="id7719506">Memorandum</para>
+    <para id="id7719511">Leerders moet hier self prakties ontdek. Baie skole het nog houtborde wat geskik is vir die praktiese oefening in die Skeinat-klaskamers. Die broodborde is ook baie geskik vir die doel, aangesien stroombane baie vinnig gebou kan word. LED’s kan dan in die plek van die gloeilampe gebruik word. Dit is ook ‘n ideale tyd om die multimeter te gebruik. Leerders kan dan nou lesings neem terwyl hulle werk.</para>
+    <para id="id7719536">Let daarop dat LED’s se langbeen positief is en die kortbeen negatief. Die komponent moet dus korrek gekoppel word en deur ‘n weerstand beskerm word.</para>
+    <para id="id7719548">Opdrag 6</para>
+    <para id="id7719553">6.1 a) 1,5 V + 1,5 V = 3 V</para>
+    <para id="id7719571">b) Uitset brand dowwer.</para>
+    <para id="id7719578">6.2 a) 1,5 V</para>
+    <para id="id7719587">b) Geen waarneembare effek nie, maar battery sal vinniger ontlaai.Dof</para>
+    <para id="id7719595">6.3 a) Ander brand nie.</para>
+    <para id="id7719604">b) Almal brand flouer.</para>
+    <para id="id7719611">c) 3 V (as inset battery 3 V is en daar geen weerstand is nie)</para>
+    <para id="id7719621">6.4 a) Die ander een brand nog.</para>
+    <para id="id7719630">b) Almal sal ewe sterk brand.</para>
+    <para id="id7719638">c) 3 V (as inset battery 3 V is en daar geen weerstand is nie).</para>
+    <para id="id7719648">6.5 a) Dit beskerm die LED’s in die stroombaan.</para>
+    <para id="id7719658">b) R1 + R2 = RT (formule vir serie-geskakelde weerstande).</para>
+    <para id="id7719676">Fokustaak 3:</para>
+    <para id="id7719681">Om die vaardigheid van soldering te bemeester </para>
+    <para id="id7719687">Soldering:</para>
+    <para id="id7719692">Die onderstaande skets toon die basiese benodigdhede om te kan soldeer. Die soldeersel is ‘n allooi van lood en tin. Dit het sy eie vloeimiddel in die middel om die soldeersel te help vloei.</para>
+    <para id="id7719705">
+      <figure id="id7719710">
+        <media id="id7719710_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics9.png" id="id7719710__onlineimage" height="363" width="560"/>
+        </media>
+      </figure>
+    </para>
+    <para id="id7719734">Situasie 1</para>
+    <para id="id7719738">Die onderstaande voorbeelde is ‘n goeie aanduiding van hoe die finale idees van die leerders behoort te lyk (‘n 150 mm × 50 mm × 22 mm houtbasis kan ge­bruik word). Indien die leerders ‘n agtergrond wil hê, kan ‘n 3 mm-groefie in die hout gesaag word waarin die hardebord dan sal pas. Verskillende motiewe kan op die agtergrond geverf of selfs prente opgeplak word om by die draadvorm (tema) aan te sluit.</para>
+    <para id="id7719768">Situasie 2</para>
+    <para id="id7719773">Leerders kan afvalhouers, soos plastiese bottels, gebruik om motiewe, bv. ‘n voor­stelling van ‘n persoon se longe, op te teken met permanente koutjies. Die stroombaan kan op ‘n strookbord gebou word met lang draadjies vir die batterykoppeling sodat die battery aan die buitekant van die bottel kan bly. Die stroom­baanbordjie kan binne die bottel gesit word, indien die bottel aan die agterkant oopgesny word.</para>
+    <para id="id7719796">By beide situasies moet die leerders die probleem binne die situasie identifiseer en formuleer. Hulle moet hulle eie ontwerpvoorstel skryf en die opvoeder kan spesifikasies gee na aanleiding van sy klas, materiale, toerusting en beskikbaarheid van komponente. Leerders se idees kan bv. verskillende stroombaanuitlegte wees, sowel as van verskillende ontwerpe van motiewe. U assesseer hulle modelletjies.</para>
+    <para id="id7719814">Elke leerder moet sy eie portefeulje produseer met voorblad.</para>
+    <para id="id7719819">Om te soldeer moet die volgende stappe gevolg word:</para>
+    <para id="id7719825">Maak seker dat die las stil gehou word (“third hands”).</para>
+    <para id="id7719831">Maak die las warm met die soldeerbout.</para>
+    <para id="id7719836">Plaas ‘n bietjie soldeersel op die las.</para>
+    <para id="id7719842">‘n Blink las moet vorm na afkoeling.</para>
+    <para id="id7719848">Daar moet op die volgende gelet word:</para>
+    <para id="id7719854">Die las moet skoon wees.</para>
+    <para id="id7719859">Gee 3 – 5 sekondes vir die las om warm te word.</para>
+    <para id="id7719865">Gebruik die regte grootte soldeerbout vir die werk.</para>
+    <para id="id10625699">‘n Praktiese wenk: Wanneer twee drade aan mekaar gesoldeer moet word, is dit wys om eers die twee punte apart te soldeer en dan te las – dit staan bekend as “sweating”. Gebruik ou PCB’s (“printed circuit boards”) om soldering op te oefen.</para>
+  </content>
+</document>
